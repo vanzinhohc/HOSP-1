@@ -12,3 +12,6 @@ and being unable to log into the game
 [TST2] IamSickPlayer
 
 [TST3] BadlyInjuredGuy
+
+[KIRA] Lietez
+  Fell into a deep coma awaiting JediSpy's response.
