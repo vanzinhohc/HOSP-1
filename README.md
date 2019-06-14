@@ -10,3 +10,5 @@ and being unable to log into the game
 [TEST] TestPlayerName
 
 [TST2] IamSickPlayer
+
+[TST3] BadlyInjuredGuy
