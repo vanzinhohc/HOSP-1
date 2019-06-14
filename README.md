@@ -3,15 +3,17 @@
 
 ### Star Trek Fleet Command
 ##### Server 13
-======================================================================
 
->Please do not attack these players due to medical reasons
->and being unable to log into the game
+---
 
->Please also report any attacks on these players to your Admiral.
+>Please do not attack these players due to medical reasons<br>
+>and being unable to log into the game<br>
 
->_HOSP is a neutral entity in all inter-alliance politics._
->_While at HOSP, our goal is to help in the healing process._ 
+>Please also report any attacks on these players to your Admiral.<br>
+
+
+>_HOSP is a neutral entity in all inter-alliance politics._<br>
+>_While at HOSP, our goal is to help in the healing process._ <br>
 >_Prayers for you and yours_
 
-======================================================================
+---
