@@ -10,4 +10,8 @@
 
 >Please also report any attacks on these players to your Admiral.
 
+>_HOSP is a neutral entity in all inter-alliance politics._
+>_While at HOSP, our goal is to help in the healing process._ 
+>_Prayers for you and yours_
+
 ======================================================================
