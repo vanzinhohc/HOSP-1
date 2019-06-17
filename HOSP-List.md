@@ -17,3 +17,5 @@
 
 `HOSP`
 `USSF`
+`QQ Estates`
+`SYND/SITH`
