@@ -3,10 +3,8 @@
 
 | Tags | User       | Reason |
 |:------|:---------- |:-------|
-| ODO  | Ranger82ND | Severe car accident and is in hospital |
-| BEEP  | LocutusofBeep | Wife had major surgery and unable to play until June 25th |
-| DRTH  | Va_Truth | has had a setback (Is currently in hospital and out of commission) |
-| KIRA | ANORAK | in hospital for next 3-6 days |
+| DRTH  | Va_Truth | Is currently in hospital and out of commission |
+| KIRA | ANORAK | Was temporarily in hospital; unable to get ahold of.  Keeping here just in case.  If anyone can get ahold of and provide an update, please contact Lietez on discord. |
 
 <br>
 <br>
