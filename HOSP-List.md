@@ -4,6 +4,7 @@
 | Tags | User       | Reason |
 |:------|:---------- |:-------|
 | DRTH  | Va_Truth | Is currently in hospital and out of commission |
+| VIKE | Warrpig | death in the family and will not be playing |
 <br>
 <br>
 
