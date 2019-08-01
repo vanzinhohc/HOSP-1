@@ -19,3 +19,4 @@
 `Starways Congress`
 `Sons of Anarchy`
 `Alliance Admirals`
+`USFP`
