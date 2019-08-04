@@ -20,3 +20,4 @@
 `Sons of Anarchy`
 `Alliance Admirals`
 `USFP`
+`Starbase-13 (Server 13 hub)`
