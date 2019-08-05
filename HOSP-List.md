@@ -7,6 +7,7 @@
 | QNOS | KatieRose | medical procedure, will be out of game |
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | STGC | CommanderChaos | His daughter has been in the hospital for a few days now |
+| XDCA | DarkhellMX | Admitted to hospital via emergency; unsure of condition but has been transferred to another hospital |
 <br>
 <br>
 
