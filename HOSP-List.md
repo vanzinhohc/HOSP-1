@@ -7,6 +7,7 @@
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | TREK | JeannieMiller | Father passed away and will be away from the game |
 | BØRG | Cinaptic | Involved in a serious car accident and will be away from the game |
+| VIKE | Kingbobsballs | going into surgery and will be away for a while due to it. |
 
 <br>
 <br>
