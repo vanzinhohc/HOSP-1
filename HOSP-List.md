@@ -8,6 +8,7 @@
 | BØRG | Cinaptic | Involved in a serious car accident and will be away from the game |
 | VIKE | Kingbobsballs | going into surgery and will be away for a while due to it. |
 | USSF | OmegamanAF | Triple Bypass surgery, out for 5 days |
+| METL | Army82nd | Heart attack over night, waiting for more details. |
 
 <br>
 <br>
