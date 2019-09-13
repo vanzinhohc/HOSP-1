@@ -7,7 +7,7 @@
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | VIKE | Kingbobsballs | going into surgery and will be away for a while due to it. |
 | METL | Army82nd | Heart attack over night, waiting for more details. |
-
+| NUKE | Zombee | Wife in surgery, supporting for the next 48 hours |
 <br>
 <br>
 
