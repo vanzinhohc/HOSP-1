@@ -6,7 +6,6 @@
 | QNOS | KatieRose | medical procedure, will be out of game |
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | VIKE | Kingbobsballs | going into surgery and will be away for a while due to it. |
-| NUKE | Zombee | Wife in surgery, supporting for the next 48 hours |
 <br>
 <br>
 
