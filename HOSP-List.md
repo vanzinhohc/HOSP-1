@@ -6,6 +6,7 @@
 | QNOS | KatieRose | medical procedure, will be out of game |
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | VIKE | Kingbobsballs | going into surgery and will be away for a while due to it. |
+| DWSX | Pepelepew | having surgery |
 <br>
 <br>
 
