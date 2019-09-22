@@ -7,6 +7,7 @@
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | DWSX | Pepelepew | having surgery |
 | METL | drpmgram | In hospital for a major infection |
+| GAX  | Loxxs | hospitalized |
 <br>
 <br>
 
