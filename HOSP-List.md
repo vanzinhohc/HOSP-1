@@ -5,7 +5,6 @@
 |:------|:---------- |:-------|
 | QNOS | KatieRose | medical procedure, will be out of game |
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
-| DWSX | Pepelepew | having surgery |
 | SYTH | USSNEPatriots | Hospitalized for surgery |
 <br>
 <br>
