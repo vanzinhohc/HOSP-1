@@ -8,6 +8,7 @@
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | TALO | NightMarcher | hospitalized for a heart attack |
 | MCRA | Random1 | unable to play due to health issues |
+| DWSX | ApeinSpace | Family medical emergency |
 <br>
 <br>
 
