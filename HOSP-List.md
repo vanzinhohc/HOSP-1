@@ -6,7 +6,6 @@
 | QNOS | KatieRose | medical procedure, will be out of game |
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
-| TALO | NightMarcher | hospitalized for a heart attack |
 | MCRA | Random1 | unable to play due to health issues |
 | DWSX | ApeinSpace | Family medical emergency |
 <br>
