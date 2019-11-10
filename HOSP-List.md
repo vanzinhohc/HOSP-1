@@ -7,7 +7,6 @@
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | MCRA | Random1 | unable to play due to health issues |
-| DSTL | VodkaGuy | death in the family |
 | SYTH | DustyXV | Son in hospital, out of the game |
 <br>
 <br>
