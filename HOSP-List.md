@@ -8,6 +8,7 @@
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | MCRA | Random1 | unable to play due to health issues |
 | SYTH | DustyXV | Son in hospital, out of the game |
+| GOM  | HarkinGiantsBane | Family hardship |
 <br>
 <br>
 
