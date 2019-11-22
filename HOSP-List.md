@@ -7,7 +7,6 @@
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | SYTH | DustyXV | Son in hospital, out of the game |
-| GOM  | HarkinGiantsBane | Family hardship |
 | RIPH | JWolf | Loss in the family |
 <br>
 <br>
