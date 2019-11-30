@@ -8,6 +8,7 @@
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | SYTH | DustyXV | Son in hospital, out of the game |
 | RIPH | JWolf | Loss in the family |
+| MQS  | Scott4167 | Loss in the family |
 <br>
 <br>
 
