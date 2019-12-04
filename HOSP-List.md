@@ -8,7 +8,6 @@
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | RIPH | JWolf | Loss in the family |
 | MQS  | Scott4167 | Loss in the family |
-| BŐB | JUSTBLUE | Was in a car accident |
 | TNGS | TheRealOne | family member emergency hospitalization |
 <br>
 <br>
