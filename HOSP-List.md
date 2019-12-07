@@ -9,6 +9,7 @@
 | RIPH | JWolf | Loss in the family |
 | MQS  | Scott4167 | Loss in the family |
 | TNGS | TheRealOne | family member emergency hospitalization |
+| SYTH | Elryq | Emergency visit to the hospital |
 <br>
 <br>
 
