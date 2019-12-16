@@ -8,7 +8,6 @@
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | RIPH | JWolf | Loss in the family |
 | MQS  | Scott4167 | Loss in the family |
-| SYTH | Elryq | Emergency visit to the hospital |
 | FQQA | GoRogue | Medical procedure |
 <br>
 <br>
