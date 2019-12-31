@@ -9,6 +9,7 @@
 | RIPH | JWolf | Loss in the family |
 | MQS  | Scott4167 | Loss in the family |
 | BOB  | Iiceman | Loss in the family |
+| SYTH | CaptEB | Medical Issues |
 <br>
 <br>
 
