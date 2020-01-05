@@ -10,6 +10,7 @@
 | MQS  | Scott4167 | Loss in the family |
 | SYTH | CaptEB | Medical Issues |
 | BOB  | Iiceman | Family medical emergency |
+| SYTH | Elryq Whitewolf | Medical Emergency |
 <br>
 <br>
 
