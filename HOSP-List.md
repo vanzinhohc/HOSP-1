@@ -11,6 +11,7 @@
 | SYTH | CaptEB | Medical Issues |
 | BOB  | Iiceman | Family medical emergency |
 | SYTH | Elryq Whitewolf | Medical Emergency |
+| BOB  | Ditto666 | Loss in the Family |
 <br>
 <br>
 
