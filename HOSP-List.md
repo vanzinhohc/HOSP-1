@@ -10,7 +10,6 @@
 | MQS  | Scott4167 | Loss in the family |
 | SYTH | CaptEB | Medical Issues |
 | SYTH | Elryq Whitewolf | Medical Emergency |
-| BOB  | Ditto666 | Loss in the Family |
 <br>
 <br>
 
