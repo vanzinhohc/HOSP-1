@@ -9,7 +9,7 @@
 | RIPH | JWolf | Loss in the family |
 | MQS  | Scott4167 | Loss in the family |
 | SYTH | CaptEB | Medical Issues |
-| TREK | RazzTek | Hospitalized |
+| BOB  | HUNTERTWC | loss in the family |
 <br>
 <br>
 
