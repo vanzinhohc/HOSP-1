@@ -10,7 +10,6 @@
 | MQS  | Scott4167 | Loss in the family |
 | SYTH | CaptEB | Medical Issues |
 | VIKE | SRTBaltazar | Family medical emergency |
-| TREK | CommanderFartsAlot | Family Emergency |
 <br>
 <br>
 
