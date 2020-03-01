@@ -9,6 +9,7 @@
 | RIPH | JWolf | Loss in the family |
 | MQS  | Scott4167 | Loss in the family |
 | UFOP | Vixenous | hosptialized |
+| BOB  | PoopFinger | Auto accident |
 <br>
 <br>
 
