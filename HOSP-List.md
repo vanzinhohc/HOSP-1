@@ -27,6 +27,7 @@
 `Starbase-13 (Server 13 hub)`
 `ARI`
 `TREK`
+`ASYLM`
 
 
 `banned users`
