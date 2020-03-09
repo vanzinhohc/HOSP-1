@@ -42,5 +42,4 @@ Please report attacks on HOSP or DNH members to this discord immediately, so we 
 
 If you see a member in violation of HOSP guidelines, please report it to the violations channel immediately with a SS, date, and time, so we can take quick and appropriate action
 
-The Admiral of this alliance (Snowstice) is semi-active and may mine or participate in in-game events, but will not participate in PvP action. To Contact in-game, I am located in the Emie System (Around Pekka)
-[S:1490400924 X:-601 Y:-308]
+Privacy Note: Players are added to and removed from the list based on good faith and the best information at the time. As such, HOSP is not in a position to provide any further information regarding condition, status, severity etc other than maintaining the list as a service to Server 13 and its players.
