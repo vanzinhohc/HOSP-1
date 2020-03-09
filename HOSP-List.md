@@ -10,7 +10,6 @@
 | MQS  | Scott4167 | Loss in the family |
 | UFOP | Vixenous | hosptialized |
 | BOB  | PoopFinger | Auto accident |
-| KILZ | Elapidea | Hospitalized |
 <br>
 <br>
 
