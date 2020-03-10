@@ -7,8 +7,7 @@
 | RISE | Ranger82nd | in hospital still, accidentally removed instead of similar named player |
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | RIPH | JWolf | Loss in the family |
-| MQS  | Scott4167 | Loss in the family |
-| UFOP | Vixenous | hosptialized |
+| UFOP | Vixenous | hospitalized |
 <br>
 <br>
 
