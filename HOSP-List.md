@@ -8,6 +8,7 @@
 | QNOS | ElTaino787DILLIGAF | Family medical emergency |
 | RIPH | JWolf | Loss in the family |
 | UFOP | Vixenous | hospitalized |
+| GOST | CaptRomero | Surgery |
 <br>
 <br>
 
