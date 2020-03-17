@@ -9,6 +9,7 @@
 | RIPH | JWolf | Loss in the family |
 | UFOP | Vixenous | hospitalized |
 | GOST | CaptRomero | Surgery |
+| SYTH | bobtomatoe | hospitalized |
 <br>
 <br>
 
